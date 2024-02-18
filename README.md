@@ -7,6 +7,8 @@ This guide provides instructions on how to download and merge the Digital Surfac
 ## Prerequisites
 
 - Register and obtain your secret key from [OpenTopography](https://opentopography.org/).
+- Git
+- Python 3.8+
 
 ## Steps
 
@@ -28,6 +30,7 @@ This guide provides instructions on how to download and merge the Digital Surfac
    ```bash
    python main.py
    ```
+   *dont't forget to fill your secret key in main.py here: https://github.com/Youssef-Harby/dsm2cog/blob/main/main.py#L9-L10*
 
 3. **Navigate to the DSM Data Directory**
 
